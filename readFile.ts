@@ -8,5 +8,8 @@ const lineReader = readLine.createInterface({
 });
 
 lineReader.on('line', function (line) {
+    // split out the rule set
+    // feed rule set
+    let line.slice(0)
     array.push(line)
 });
